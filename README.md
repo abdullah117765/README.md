@@ -26,6 +26,10 @@ I'm a passionate Full Stack Developer with a strong background in building dynam
 - **Stack**: Node.js (NestJS), MySQL, TypeORM, TypeScript
 - **Description**: A user-friendly app hosting platform featuring subscriptions, payments (Stripe), and analytics.
 
+#### MindGame (Free Lance Project for client)
+- **Stack**:  React Native, Expo, Type Script, Supabase
+- **Description**: this is a mobile game that has Auth faciliteis and a matching game with game data stored  and displayed.
+
 #### TechSella
 - **Stack**: React, Node.js, Express.js, MongoDB
 - **Description**: A fully functional e-commerce platform for buying laptops and mobile phones.
